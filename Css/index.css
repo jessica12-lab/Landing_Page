@@ -1,0 +1,114 @@
+*{
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: 'Catamaran', sans-serif;}
+
+
+.img_logo{
+    width: 130px;
+    height: 130px;
+    margin-left: 45%;
+}
+
+.container{
+    display:flex;
+    height: 700px;
+    background-color: rgb(243, 243, 243);
+    padding-top: 0%;
+}
+
+.indice-1{
+    display: block;
+    width: 70%;
+    margin-top: 2%;
+    margin-left: 8%;
+    
+}
+.title-principal{
+    color:rgb(230, 84, 113);
+    font-size: 25px;
+    text-decoration:underline;
+    text-align: left;
+    padding-bottom: 15px;
+
+
+}
+.p-1{
+    color: rgb(20, 10, 10);
+    font-size: 20px;
+    padding-bottom: 7%;
+}
+
+.img-gato2{
+    height: 400px;
+    width: 600px;
+    border-radius: 15px;
+}
+.box-2{
+    background-color: rgb(218, 150, 126);    
+    margin-top: 3%;
+    margin-bottom: 2%;
+    margin-right: 8%;
+    border-radius: 30px;
+    color:rgb(245, 244, 244);
+}
+.h5-box{
+    
+    font-size: 20px;
+    text-align: center;
+    margin-top: 3%;
+
+}
+.p-box{
+    text-align: left;
+    margin-left: 11%;
+}
+
+.form-box{
+    margin-left: 11%;
+    margin-right: 11%;
+    padding-top: 2%;
+
+}
+input[type=text], [type=email], [type=tel] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 10%px 5%;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    transition: width 0.4s ease-in-out;
+}
+.p-form{
+    padding-top: 2%;
+    margin-bottom: 2%;
+}
+input[type=checkbox]{
+    display: inline-block;
+}
+input[type=button]{
+    font-size: 20px;
+    text-justify: auto;
+    font-weight: bold;
+    color: #ccc;
+    background-color: orangered;
+    width: 78%;
+    height: 5%;
+    margin-right: 11%;
+    box-sizing: border-box;
+    margin-left: 11%;
+    margin-top: 10%;
+    border-radius: 5px;
+}
+
+.container-2{
+    background-color: rgb(250, 189, 167);
+
+}
+.section-2{
+    display: inline-block;
+    word-wrap: break-word;
+}
